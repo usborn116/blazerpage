@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang = “en”>
+<head>
+<meta charset = “UTF-8”>
+<title>Rip City Rosters</title>
+</head>
+<body>
+<header>
+	<h1><a href="firstpage.html">Go Blazers</a></h1>
+	<h2>Rip City, Baby!</h2>
+	<nav>
+		<a href="firstpage.html">Home</a>
+		<a href="rosters.html">Roster</a>
+		<a href="coaches.html">Coaches</a>
+	</nav>
+</header>
+
+<section>
+	<h2>Starters</h2>
+	<p>Damian Lillard, CJ McCollum, Moe Harkless, Al Farouq Aminu, Enes Kanter</p>
+	<h2>Bench</h2>
+	<p>Anfernee Simons, Gary Trent, Evan Turner, Zach Collins, Meyers Leonard</p>
+</section>
+<footer>
+	<small>&copy; Usborn Ocampo</small>
+	<nav>
+		<a href="firstpage.html">Home</a>
+		<a href="roster.html">Roster</a>
+		<a href="coaches.html">Coaches</a>
+	</nav>
+</footer>
+
+</body>
+</html>
